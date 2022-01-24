@@ -1,0 +1,20 @@
+body{
+    background-color: silver;
+    margin-left: 30px;
+}
+
+h1 {
+    color: black;
+    border-bottom: solid 3px black;
+    background-color: burlywood;
+    width: 32%;
+  }
+
+p {
+    color: darkblue;
+    
+}
+
+a {
+    color: springgreen;
+}
